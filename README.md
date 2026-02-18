@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Furkan%20KOCAL&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=200&section=header&text=Furkan%20KOCAL&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=AI+%26+Deep+Learning+Engineer;Computer+Vision+Enthusiast;Building+the+Future+with+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&multiColor=true&center=true&vCenter=true&width=500&lines=AI+%26+Deep+Learning+Engineer;Computer+Vision+Enthusiast;Building+the+Future+with+Data" alt="Typing SVG" />
   </a>
+
   <p>
     <a href="https://linkedin.com/in/fhurkhan">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,11 +15,9 @@
     <a href="https://instagram.com/furkocal">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Fhurky&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=Fhurky&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
   </p>
 </div>
-
----
 
 ## ⚡ About Me
 
