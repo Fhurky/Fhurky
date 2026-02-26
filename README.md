@@ -4,7 +4,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&multiColor=true&center=true&vCenter=true&width=500&lines=AI+%26+Deep+Learning+Engineer;Computer+Vision+Enthusiast;Building+the+Future+with+Data" alt="Typing SVG" />
   </a>
-
   <p>
     <a href="https://linkedin.com/in/fhurkhan">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,7 +19,6 @@
 </div>
 
 ## ⚡ About Me
-
 ```python
 class FurkanKocal:
     def __init__(self):
@@ -30,10 +28,8 @@ class FurkanKocal:
         self.languages  = ["Python", "Java", "C"]
         self.focus      = ["Computer Vision", "Deep Learning", "Recommenders"]
         self.currently  = "Optimizing neural networks for real-world impact"
-
     def say_hi(self):
         return "Let's build something intelligent together 🤖"
-
 print(FurkanKocal().say_hi())
 ```
 
@@ -78,6 +74,6 @@ print(FurkanKocal().say_hi())
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10&height=120&section=footer" />
 
 </div>
