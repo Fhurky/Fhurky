@@ -36,10 +36,10 @@ class FurkanKocal:
         self.role       = "AI & Deep Learning Engineer"
         self.location   = "Istanbul, Turkey 🇹🇷"
         self.languages  = ["Python", "Java", "C"]
-        self.focus      = ["Computer Vision", "Deep Learning", "Recommenders"]
+        self.focus      = ["Computer Vision", "Deep Learning", "Machine Learning"]
         self.currently  = "Optimizing neural networks for real-world impact"
     def say_hi(self):
-        return "Let's build something intelligent together 🤖"
+        return "Hi! Let's build something intelligent together 🤖"
 print(FurkanKocal().say_hi())
 ```
 
