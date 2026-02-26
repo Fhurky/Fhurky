@@ -7,11 +7,12 @@
 
   <br/>
 
-  > 🤖 **Teknik detayları AI ikizime sorabilirsin!**
-  > 
-<a href="https://huggingface.co/spaces/Fhurky/ResumeAssistant"><img src="https://img.shields.io/badge/Chat%20with%20My%20AI%20Clone-ResumeAssistant-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <p>🤖 <em>You can ask my AI clone about academic & technical topics!</em></p>
+  <a href="https://huggingface.co/spaces/Fhurky/ResumeAssistant">
+    <img src="https://img.shields.io/badge/Chat%20with%20My%20AI%20Clone-ResumeAssistant-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
   <p>
     <a href="https://linkedin.com/in/fhurkhan">
