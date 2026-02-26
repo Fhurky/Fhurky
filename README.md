@@ -4,6 +4,15 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&multiColor=true&center=true&vCenter=true&width=500&lines=AI+%26+Deep+Learning+Engineer;Computer+Vision+Enthusiast;Building+the+Future+with+Data" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  > 🤖 **Teknik detayları AI ikizime sorabilirsin!**
+  > 
+  > [![AI İkizim](https://img.shields.io/badge/🧠_Furkan'ın_AI_İkizi-ResumeAssistant-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Fhurky/ResumeAssistant)
+
+  <br/>
+
   <p>
     <a href="https://linkedin.com/in/fhurkhan">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
