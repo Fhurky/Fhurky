@@ -9,7 +9,7 @@
 
   > 🤖 **Teknik detayları AI ikizime sorabilirsin!**
   > 
-  > [![AI İkizim](https://img.shields.io/badge/🧠_Furkan'ın_AI_İkizi-ResumeAssistant-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Fhurky/ResumeAssistant)
+<a href="https://huggingface.co/spaces/Fhurky/ResumeAssistant"><img src="https://img.shields.io/badge/Chat%20with%20My%20AI%20Clone-ResumeAssistant-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 
   <br/>
 
